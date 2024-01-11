@@ -32,12 +32,23 @@ directories.forEach((dir) => {
     const content = `window.files = window.files || {}; window.files[${JSON.stringify(
       dirBaseName
     )}] = ${JSON.stringify(fileInfo, null, 2)};`;
+    const moduleContent = `const files = ${JSON.stringify(fileInfo, null, 2)};
+const dirBaseName = ${JSON.stringify(dirBaseName)};
+export { files, dirBaseName };
+`;
     fs.writeFile(path.join(dir, "files.js"), content, (err) => {
       if (err) {
         console.error(`Error writing to ${dir}/files.js:`, err);
         return;
       }
       console.log(`File info written successfully to ${dir}/files.js`);
+    });
+    fs.writeFile(path.join(dir, "files-module.js"), moduleContent, (err) => {
+      if (err) {
+        console.error(`Error writing to ${dir}/files-module.js:`, err);
+        return;
+      }
+      console.log(`File info written successfully to ${dir}/files-module.js`);
     });
   });
 });
