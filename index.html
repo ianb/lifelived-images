@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Two Column Layout</title>
+    <!-- Include Tailwind CSS from CDN -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div
+      id="bgimage"
+      class="container mx-auto flex bg-auto"
+      style="background-image: url('images/start.jpg'); width: 2000px"
+    >
+      <div class="w-1/4 p-4 text-xs">
+        <ul id="file-list"></ul>
+      </div>
+    </div>
+
+    <!-- External JS file -->
+    <script src="images/files.js"></script>
+    <script src="test/files.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
