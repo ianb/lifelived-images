@@ -240,6 +240,34 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 205555
   },
   {
+    "filename": "a busy but neat Asian kitchen or household.jpg",
+    "bytes": 219152
+  },
+  {
+    "filename": "a cluttered Asian or Chinese household and kitchen.jpg",
+    "bytes": 213819
+  },
+  {
+    "filename": "a dribbly night rain.jpg",
+    "bytes": 140959
+  },
+  {
+    "filename": "a driving rain at night.jpg",
+    "bytes": 151432
+  },
+  {
+    "filename": "a graveyard with gravestones.jpg",
+    "bytes": 104112
+  },
+  {
+    "filename": "a stone wall with a torch with a medieval feel.jpg",
+    "bytes": 211242
+  },
+  {
+    "filename": "a torch or sconce on a wall with a dungeon feel.jpg",
+    "bytes": 171644
+  },
+  {
     "filename": "ancient egyptian papyrus.jpg",
     "bytes": 188365
   },
@@ -252,6 +280,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 258912
   },
   {
+    "filename": "architectural plans laid out with a midcentury or modern feel.jpg",
+    "bytes": 187897
+  },
+  {
     "filename": "arctic mountains and icy water.jpg",
     "bytes": 57447
   },
@@ -262,6 +294,10 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "art nuveau old design.jpg",
     "bytes": 156580
+  },
+  {
+    "filename": "autumn grassland or prairie.jpg",
+    "bytes": 118712
   },
   {
     "filename": "baked earthen mud.jpg",
@@ -296,6 +332,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 148597
   },
   {
+    "filename": "coffee and papers as if in busy planning or note taking.jpg",
+    "bytes": 176731
+  },
+  {
     "filename": "cold and sturdy jail bars.jpg",
     "bytes": 131197
   },
@@ -308,6 +348,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 219650
   },
   {
+    "filename": "cracked and broken mud ground.jpg",
+    "bytes": 221107
+  },
+  {
     "filename": "cracked parchment.jpg",
     "bytes": 140583
   },
@@ -316,8 +360,16 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 257433
   },
   {
+    "filename": "deep mud that would be hard to travel in.jpg",
+    "bytes": 211734
+  },
+  {
     "filename": "dense and dark jungle plants.jpg",
     "bytes": 192044
+  },
+  {
+    "filename": "dense evening grass as in a meadow.jpg",
+    "bytes": 216530
   },
   {
     "filename": "dense jungle plants.jpg",
@@ -392,12 +444,20 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 201814
   },
   {
+    "filename": "mud ground.jpg",
+    "bytes": 215159
+  },
+  {
     "filename": "mudbrick rustic and rough hewn wall.jpg",
     "bytes": 237453
   },
   {
     "filename": "mudbrick wall.jpg",
     "bytes": 247367
+  },
+  {
+    "filename": "mysterious grasses covering everything.jpg",
+    "bytes": 249395
   },
   {
     "filename": "mysterious ink wash painting of a dark landscape.jpg",
@@ -506,6 +566,10 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "stylized parchment with writing.jpg",
     "bytes": 162020
+  },
+  {
+    "filename": "summer grassland or prairie.jpg",
+    "bytes": 150871
   },
   {
     "filename": "surreal and creepy painting of a face and eye gazing.jpg",
