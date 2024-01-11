@@ -252,6 +252,14 @@ const files = [
     "bytes": 258912
   },
   {
+    "filename": "arctic mountains and icy water.jpg",
+    "bytes": 57447
+  },
+  {
+    "filename": "arctic snow falling over water and mountains.jpg",
+    "bytes": 46850
+  },
+  {
     "filename": "art nuveau old design.jpg",
     "bytes": 156580
   },
@@ -264,6 +272,18 @@ const files = [
     "bytes": 188319
   },
   {
+    "filename": "bookshelves full of a variety of classic books.jpg",
+    "bytes": 188247
+  },
+  {
+    "filename": "bookshelves full of old and musty books.jpg",
+    "bytes": 178527
+  },
+  {
+    "filename": "bookshelves full of old books.jpg",
+    "bytes": 175393
+  },
+  {
     "filename": "brutalist architecture concrete.jpg",
     "bytes": 149297
   },
@@ -274,6 +294,10 @@ const files = [
   {
     "filename": "brutalist concrete blocks.jpg",
     "bytes": 148597
+  },
+  {
+    "filename": "cold and sturdy jail bars.jpg",
+    "bytes": 131197
   },
   {
     "filename": "colorful foliage of houseplants.jpg",
@@ -300,6 +324,18 @@ const files = [
     "bytes": 193452
   },
   {
+    "filename": "desert scenery with cactus and saguaro old west.jpg",
+    "bytes": 86265
+  },
+  {
+    "filename": "desert scenery with plants.jpg",
+    "bytes": 73406
+  },
+  {
+    "filename": "desert scenery with saguaro cactus.jpg",
+    "bytes": 69799
+  },
+  {
     "filename": "egptian eagle motif.jpg",
     "bytes": 208470
   },
@@ -312,6 +348,10 @@ const files = [
     "bytes": 198792
   },
   {
+    "filename": "endless snow falling in blizzard.jpg",
+    "bytes": 153540
+  },
+  {
     "filename": "esoteric brick wall with iron banding.jpg",
     "bytes": 236239
   },
@@ -322,6 +362,14 @@ const files = [
   {
     "filename": "groovy 1960s colorful pattern.jpg",
     "bytes": 88915
+  },
+  {
+    "filename": "hay in barn.jpg",
+    "bytes": 98750
+  },
+  {
+    "filename": "haystacks.jpg",
+    "bytes": 144221
   },
   {
     "filename": "ian55407_Ornate_Renaissance_Fabric_tapestry_22a2a9c0-15a4-4ba1-bef2-a1bca011f978.jpg",
@@ -368,6 +416,14 @@ const files = [
     "bytes": 184886
   },
   {
+    "filename": "light snow falling.jpg",
+    "bytes": 82619
+  },
+  {
+    "filename": "lush floral garden.jpg",
+    "bytes": 220794
+  },
+  {
     "filename": "mechanical and oily tools set out.jpg",
     "bytes": 201814
   },
@@ -394,6 +450,10 @@ const files = [
   {
     "filename": "old Chinese calligraphy.jpg",
     "bytes": 177635
+  },
+  {
+    "filename": "old and sturdy bank vault.jpg",
+    "bytes": 177809
   },
   {
     "filename": "ornate but decaying wallpaper.jpg",
@@ -466,6 +526,14 @@ const files = [
   {
     "filename": "strange tools laid out in workspace.jpg",
     "bytes": 180908
+  },
+  {
+    "filename": "strong bank vault.jpg",
+    "bytes": 108586
+  },
+  {
+    "filename": "strong iron prison bars.jpg",
+    "bytes": 142002
   },
   {
     "filename": "stylized old growth forest.jpg",

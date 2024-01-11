@@ -1,6 +1,6 @@
 const pathname = new URL(location.href).pathname.replace(/[^/]+$/, "");
 
-function populateFileList(files, directory) {
+function populateFileList(files, directory, isTest) {
   const ulElement = document.querySelector("#file-list");
 
   files.forEach(({ filename, size }) => {
@@ -10,7 +10,7 @@ function populateFileList(files, directory) {
     const a = document.createElement("a");
     a.className = "hover:underline bg-white bg-opacity-75 rounded px-2";
     a.href = `#file=${directory}/${filename}`;
-    a.textContent = fileTitle(filename);
+    a.textContent = (isTest ? "**" : "") + fileTitle(filename);
 
     li.appendChild(a);
     ulElement.appendChild(li);
@@ -47,8 +47,8 @@ updateBackgroundImage();
 
 // Assuming window.files is already defined
 if (window.files) {
-  populateFileList(window.files.images, "images");
-  populateFileList(window.files.test, "test");
+  populateFileList(window.files.test, "test", true);
+  populateFileList(window.files.images, "images", false);
 }
 
 function updateHashToAdjacentLink(isNext) {
