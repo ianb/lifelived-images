@@ -372,42 +372,6 @@ const files = [
     "bytes": 144221
   },
   {
-    "filename": "ian55407_Ornate_Renaissance_Fabric_tapestry_22a2a9c0-15a4-4ba1-bef2-a1bca011f978.jpg",
-    "bytes": 189813
-  },
-  {
-    "filename": "ian55407_Polynesian_navigational_chart_4d8c0928-f8dc-4946-b70c-0e6e94d043e0.jpg",
-    "bytes": 256084
-  },
-  {
-    "filename": "ian55407_Polynesian_navigational_chart_869c6b0d-37f7-40c4-8b57-2f35ce2a94a5.jpg",
-    "bytes": 256519
-  },
-  {
-    "filename": "ian55407_Renaissance_painting_landscape_a4fc1900-237b-4052-a194-eb660b47b175.jpg",
-    "bytes": 191178
-  },
-  {
-    "filename": "ian55407_Russian_Folk_Art_muted_3fdf22a1-07a1-4c19-9f1d-b5fb56e16c2b.jpg",
-    "bytes": 241409
-  },
-  {
-    "filename": "ian55407_Shan_Shui__Painting_muted_background_1a1f1922-3271-45d3-8d88-efa5b72effe0.jpg",
-    "bytes": 153641
-  },
-  {
-    "filename": "ian55407_Soviet_poster_background_e5171497-8957-438c-939b-2da34ba0f1fe.jpg",
-    "bytes": 117692
-  },
-  {
-    "filename": "ian55407_a_dark_street_e5fd421d-22ab-42d2-82b2-5c91053dcc3c.jpg",
-    "bytes": 73347
-  },
-  {
-    "filename": "ian55407_military_plans_close_up_91064d5e-da83-4a17-a228-eaad3d98b80e.jpg",
-    "bytes": 105539
-  },
-  {
     "filename": "institutional green paint.jpg",
     "bytes": 187363
   },
