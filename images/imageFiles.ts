@@ -1,9 +1,9 @@
-
+/* eslint-disable comma-dangle */
 type Files = {
   filename: string;
   bytes: number;
 };
-const files: Files = [
+const files: Files[] = [
   {
     "filename": "1800s yellow floral wallpaper.jpg",
     "bytes": 190536

@@ -32,15 +32,17 @@ directories.forEach((dir) => {
     const content = `window.files = window.files || {}; window.files[${JSON.stringify(
       dirBaseName
     )}] = ${JSON.stringify(fileInfo, null, 2)};`;
-    const moduleContent = `
+    const moduleContent =
+      `
+/* eslint-disable comma-dangle */
 type Files = {
   filename: string;
   bytes: number;
 };
-const files: Files = ${JSON.stringify(fileInfo, null, 2)};
+const files: Files[] = ${JSON.stringify(fileInfo, null, 2)};
 const dirBaseName: string = ${JSON.stringify(dirBaseName)};
 export { files, dirBaseName };
-`;
+`.trim() + "\n";
     fs.writeFile(path.join(dir, "files.js"), content, (err) => {
       if (err) {
         console.error(`Error writing to ${dir}/files.js:`, err);
