@@ -32,8 +32,13 @@ directories.forEach((dir) => {
     const content = `window.files = window.files || {}; window.files[${JSON.stringify(
       dirBaseName
     )}] = ${JSON.stringify(fileInfo, null, 2)};`;
-    const moduleContent = `const files = ${JSON.stringify(fileInfo, null, 2)};
-const dirBaseName = ${JSON.stringify(dirBaseName)};
+    const moduleContent = `
+type Files = {
+  filename: string;
+  bytes: number;
+};
+const files: Files = ${JSON.stringify(fileInfo, null, 2)};
+const dirBaseName: string = ${JSON.stringify(dirBaseName)};
 export { files, dirBaseName };
 `;
     fs.writeFile(path.join(dir, "files.js"), content, (err) => {
@@ -43,12 +48,12 @@ export { files, dirBaseName };
       }
       console.log(`File info written successfully to ${dir}/files.js`);
     });
-    fs.writeFile(path.join(dir, "files-module.js"), moduleContent, (err) => {
+    fs.writeFile(path.join(dir, "imageFiles.ts"), moduleContent, (err) => {
       if (err) {
-        console.error(`Error writing to ${dir}/files-module.js:`, err);
+        console.error(`Error writing to ${dir}/imageFiles.ts:`, err);
         return;
       }
-      console.log(`File info written successfully to ${dir}/files-module.js`);
+      console.log(`File info written successfully to ${dir}/imageFiles.ts`);
     });
   });
 });

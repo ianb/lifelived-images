@@ -1,4 +1,9 @@
-const files = [
+
+type Files = {
+  filename: string;
+  bytes: number;
+};
+const files: Files = [
   {
     "filename": "1800s yellow floral wallpaper.jpg",
     "bytes": 190536
@@ -524,5 +529,5 @@ const files = [
     "bytes": 152615
   }
 ];
-const dirBaseName = "images";
+const dirBaseName: string = "images";
 export { files, dirBaseName };
