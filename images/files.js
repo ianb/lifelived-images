@@ -312,6 +312,14 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 251354
   },
   {
+    "filename": "ballroom wall with candelabra.jpg",
+    "bytes": 145705
+  },
+  {
+    "filename": "baroque ballroom wall with intricate ornamentation.jpg",
+    "bytes": 138462
+  },
+  {
     "filename": "beautiful day with blue sky and puffy clouds.jpg",
     "bytes": 99471
   },
@@ -354,6 +362,10 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "colorful foliage of houseplants.jpg",
     "bytes": 172956
+  },
+  {
+    "filename": "concerned faces lookup up in concern as if from an audience.jpg",
+    "bytes": 190164
   },
   {
     "filename": "cracked and ancient cave painting.jpg",
@@ -404,6 +416,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 69799
   },
   {
+    "filename": "diverse faces looking intently as if from an audience.jpg",
+    "bytes": 160451
+  },
+  {
     "filename": "egptian eagle motif.jpg",
     "bytes": 208470
   },
@@ -422,6 +438,14 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "esoteric brick wall with iron banding.jpg",
     "bytes": 236239
+  },
+  {
+    "filename": "faces staring up in expectation as if from an audience.jpg",
+    "bytes": 165875
+  },
+  {
+    "filename": "golden ornamental ballroom wall.jpg",
+    "bytes": 137096
   },
   {
     "filename": "graying jungle foliage and flowers.jpg",
@@ -458,6 +482,10 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "lush floral garden.jpg",
     "bytes": 220794
+  },
+  {
+    "filename": "luxurious ornamental ballroom wall.jpg",
+    "bytes": 216077
   },
   {
     "filename": "mechanical and oily tools set out.jpg",
