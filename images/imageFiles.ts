@@ -209,6 +209,10 @@ const files: Files[] = [
     "bytes": 142643
   },
   {
+    "filename": "Sioux tipi interior leader hide walls.jpg",
+    "bytes": 201580
+  },
+  {
     "filename": "Tapa Cloth black and white design.jpg",
     "bytes": 223922
   },
@@ -449,6 +453,10 @@ const files: Files[] = [
     "bytes": 165875
   },
   {
+    "filename": "fine crafted yurt interior.jpg",
+    "bytes": 141697
+  },
+  {
     "filename": "golden ornamental ballroom wall.jpg",
     "bytes": 137096
   },
@@ -601,6 +609,14 @@ const files: Files[] = [
     "bytes": 166866
   },
   {
+    "filename": "rustic nailed boards as in a barn.jpg",
+    "bytes": 224595
+  },
+  {
+    "filename": "rustic nailed boards.jpg",
+    "bytes": 187651
+  },
+  {
     "filename": "rustic patterned iron wall.jpg",
     "bytes": 233236
   },
@@ -681,12 +697,20 @@ const files: Files[] = [
     "bytes": 87770
   },
   {
+    "filename": "tipi interior walls native american hide walls.jpg",
+    "bytes": 225541
+  },
+  {
     "filename": "wall of crude medieval weapons with a brutal feel.jpg",
     "bytes": 183153
   },
   {
     "filename": "wall of intricate medieval swords.jpg",
     "bytes": 152615
+  },
+  {
+    "filename": "yurt interior.jpg",
+    "bytes": 110446
   }
 ];
 const dirBaseName: string = "images";
