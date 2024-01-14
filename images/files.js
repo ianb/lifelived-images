@@ -1,5 +1,9 @@
 window.files = window.files || {}; window.files["images"] = [
   {
+    "filename": "1800s pharmacy shelves.jpg",
+    "bytes": 147127
+  },
+  {
     "filename": "1800s yellow floral wallpaper.jpg",
     "bytes": 190536
   },
@@ -240,6 +244,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 205555
   },
   {
+    "filename": "a bright cheery day with puffy clouds.jpg",
+    "bytes": 102702
+  },
+  {
     "filename": "a busy but neat Asian kitchen or household.jpg",
     "bytes": 219152
   },
@@ -304,6 +312,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 251354
   },
   {
+    "filename": "beautiful day with blue sky and puffy clouds.jpg",
+    "bytes": 99471
+  },
+  {
     "filename": "blacksmith and esoteric tools laid out.jpg",
     "bytes": 188319
   },
@@ -354,6 +366,10 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "cracked parchment.jpg",
     "bytes": 140583
+  },
+  {
+    "filename": "dark and forboding storm clouds.jpg",
+    "bytes": 84373
   },
   {
     "filename": "decayed Chinese Court Painting of a woman with a bird.jpg",
@@ -416,6 +432,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 88915
   },
   {
+    "filename": "gym floor from far above.jpg",
+    "bytes": 161151
+  },
+  {
     "filename": "hay in barn.jpg",
     "bytes": 98750
   },
@@ -442,6 +462,10 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "mechanical and oily tools set out.jpg",
     "bytes": 201814
+  },
+  {
+    "filename": "messy artists table with brushes and paint.jpg",
+    "bytes": 198715
   },
   {
     "filename": "mud ground.jpg",
@@ -480,6 +504,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 177809
   },
   {
+    "filename": "old timey pharmacy drugs.jpg",
+    "bytes": 154870
+  },
+  {
     "filename": "ornate but decaying wallpaper.jpg",
     "bytes": 238969
   },
@@ -492,8 +520,24 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 141710
   },
   {
+    "filename": "paintbrushes and paint bold color art.jpg",
+    "bytes": 163947
+  },
+  {
     "filename": "petroglyphs of deer and cats orange and black.jpg",
     "bytes": 230329
+  },
+  {
+    "filename": "playfully painted preschool wall.jpg",
+    "bytes": 162391
+  },
+  {
+    "filename": "playfully painted tiles suitable for a child.jpg",
+    "bytes": 123791
+  },
+  {
+    "filename": "rock wall with mortar.jpg",
+    "bytes": 264532
   },
   {
     "filename": "rough adobe wall.jpg",
@@ -528,6 +572,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 233236
   },
   {
+    "filename": "rustic sunbleached stone wall.jpg",
+    "bytes": 251998
+  },
+  {
     "filename": "rusty tin panels.jpg",
     "bytes": 199643
   },
@@ -540,12 +588,28 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 180900
   },
   {
+    "filename": "scuffed and well used gym floor.jpg",
+    "bytes": 192295
+  },
+  {
     "filename": "shells and rocks on a sandy beach.jpg",
     "bytes": 266144
   },
   {
     "filename": "shells on beach.jpg",
     "bytes": 238574
+  },
+  {
+    "filename": "sports field like football.jpg",
+    "bytes": 257817
+  },
+  {
+    "filename": "sports green like football or soccer.jpg",
+    "bytes": 221258
+  },
+  {
+    "filename": "stormy clouds.jpg",
+    "bytes": 110218
   },
   {
     "filename": "strange tools laid out in workspace.jpg",
@@ -578,6 +642,10 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "surreal and textured painting with swirls modern art.jpg",
     "bytes": 238117
+  },
+  {
+    "filename": "thunderstorm clouds with lightning.jpg",
+    "bytes": 87770
   },
   {
     "filename": "wall of crude medieval weapons with a brutal feel.jpg",
