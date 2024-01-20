@@ -2,6 +2,7 @@
 
 set -e
 
-mv ~/Download/"ai work"/lifelived-bgs/* test/
+ls ~/Downloads/ai\ work/lifelived-bgs
+mv ~/Downloads/ai\ work/lifelived-bgs/* test/
 node build.js
 open index.html

@@ -108,6 +108,18 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 218812
   },
   {
+    "filename": "Edwardian breadboard wall painted white.jpg",
+    "bytes": 83120
+  },
+  {
+    "filename": "Edwardian floral wallpaper with stripes.jpg",
+    "bytes": 184654
+  },
+  {
+    "filename": "Edwardian tiles pastel flowers.jpg",
+    "bytes": 156332
+  },
+  {
     "filename": "Hungarian Zsolnay Ceramics.jpg",
     "bytes": 257328
   },
@@ -308,6 +320,14 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 156580
   },
   {
+    "filename": "arts and crafts nature themed wallpaper.jpg",
+    "bytes": 241439
+  },
+  {
+    "filename": "arts and crafts organic nature wallpaper.jpg",
+    "bytes": 228693
+  },
+  {
     "filename": "autumn grassland or prairie.jpg",
     "bytes": 118712
   },
@@ -370,6 +390,14 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "concerned faces lookup up in concern as if from an audience.jpg",
     "bytes": 190164
+  },
+  {
+    "filename": "country style gingham wallpaper.jpg",
+    "bytes": 87798
+  },
+  {
+    "filename": "country style plaid floral wallpaper.jpg",
+    "bytes": 144532
   },
   {
     "filename": "cracked and ancient cave painting.jpg",
@@ -448,8 +476,16 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 165875
   },
   {
+    "filename": "faux oak wood paneling.jpg",
+    "bytes": 137939
+  },
+  {
     "filename": "fine crafted yurt interior.jpg",
     "bytes": 141697
+  },
+  {
+    "filename": "floral striped wallpaper.jpg",
+    "bytes": 192031
   },
   {
     "filename": "golden ornamental ballroom wall.jpg",
@@ -528,6 +564,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 188013
   },
   {
+    "filename": "oak cabinets.jpg",
+    "bytes": 191331
+  },
+  {
     "filename": "old Chinese calligraphy with white background.jpg",
     "bytes": 182644
   },
@@ -560,6 +600,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 163947
   },
   {
+    "filename": "parquet floor intricate design.jpg",
+    "bytes": 184851
+  },
+  {
     "filename": "petroglyphs of deer and cats orange and black.jpg",
     "bytes": 230329
   },
@@ -570,6 +614,10 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "playfully painted tiles suitable for a child.jpg",
     "bytes": 123791
+  },
+  {
+    "filename": "red brick wall.jpg",
+    "bytes": 263598
   },
   {
     "filename": "rock wall with mortar.jpg",
@@ -586,6 +634,10 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "rough and cracking clay wall.jpg",
     "bytes": 241209
+  },
+  {
+    "filename": "rough brick wall.jpg",
+    "bytes": 229138
   },
   {
     "filename": "rough hewn stone brick wall.jpg",
@@ -692,6 +744,10 @@ window.files = window.files || {}; window.files["images"] = [
     "bytes": 87770
   },
   {
+    "filename": "tin ceiling tiles.jpg",
+    "bytes": 212556
+  },
+  {
     "filename": "tipi interior walls native american hide walls.jpg",
     "bytes": 225541
   },
@@ -702,6 +758,14 @@ window.files = window.files || {}; window.files["images"] = [
   {
     "filename": "wall of intricate medieval swords.jpg",
     "bytes": 152615
+  },
+  {
+    "filename": "white plaster wall.jpg",
+    "bytes": 144859
+  },
+  {
+    "filename": "worn subway tiles.jpg",
+    "bytes": 86251
   },
   {
     "filename": "yurt interior.jpg",
