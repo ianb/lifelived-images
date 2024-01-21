@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const directories = ["./images", "./test"];
+const directories = ["./images", "./test", "./portraits"];
 
 directories.forEach((dir) => {
   fs.readdir(dir, (err, files) => {

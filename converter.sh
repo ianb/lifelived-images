@@ -1,13 +1,14 @@
 #!/bin/bash
 
-for webpfile in images/*.webp; do
+for webpfile in images/*.webp portraits/*.png; do
     # Skip if no .webp files are found
     if [[ ! -e "$webpfile" ]]; then
         continue
     fi
 
     # Construct the corresponding .jpg filename
-    jpgfile="${webpfile%.webp}.jpg"
+    jpgfile="${webpfile%.webp}"
+    jpgfile="${jpgfile%.png}.jpg"
 
     # Check if the .jpg file already exists
     if [[ ! -e "$jpgfile" ]]; then
