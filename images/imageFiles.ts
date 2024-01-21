@@ -1,5 +1,5 @@
 /* eslint-disable comma-dangle */
-type Files = {
+export type Files = {
   filename: string;
   bytes: number;
 };
@@ -778,4 +778,4 @@ const files: Files[] = [
   }
 ];
 const dirBaseName: string = "images";
-export { files, dirBaseName, Files };
+export { files, dirBaseName };

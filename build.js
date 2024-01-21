@@ -38,13 +38,13 @@ directories.forEach((dir) => {
     const moduleContent =
       `
 /* eslint-disable comma-dangle */
-type Files = {
+export type Files = {
   filename: string;
   bytes: number;
 };
 const files: Files[] = ${JSON.stringify(fileInfo, null, 2)};
 const dirBaseName: string = ${JSON.stringify(dirBaseName)};
-export { files, dirBaseName, Files };
+export { files, dirBaseName };
 `.trim() + "\n";
     fs.writeFile(path.join(dir, "files.js"), content, (err) => {
       if (err) {
