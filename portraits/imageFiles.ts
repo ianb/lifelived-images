@@ -414,4 +414,4 @@ const files: Files[] = [
   }
 ];
 const dirBaseName: string = "portraits";
-export { files, dirBaseName };
+export { files, dirBaseName, Files };

@@ -778,4 +778,4 @@ const files: Files[] = [
   }
 ];
 const dirBaseName: string = "images";
-export { files, dirBaseName };
+export { files, dirBaseName, Files };

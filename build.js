@@ -44,7 +44,7 @@ type Files = {
 };
 const files: Files[] = ${JSON.stringify(fileInfo, null, 2)};
 const dirBaseName: string = ${JSON.stringify(dirBaseName)};
-export { files, dirBaseName };
+export { files, dirBaseName, Files };
 `.trim() + "\n";
     fs.writeFile(path.join(dir, "files.js"), content, (err) => {
       if (err) {
