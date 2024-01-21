@@ -12,7 +12,10 @@ directories.forEach((dir) => {
 
     const imageFiles = files.filter((file) => {
       const ext = path.extname(file).toLowerCase();
-      if (dir === "./images" && ext === ".webp") {
+      if (
+        (dir === "./images" || dir === "./portraits") &&
+        (ext === ".webp" || ext === ".png")
+      ) {
         return false;
       }
       return ext === ".png" || ext === ".jpg" || ext === ".webp";
